@@ -1,4 +1,5 @@
 Client-Server Chat Application
+
 This is a simple client-server chat application implemented in C using TCP/IP sockets and pthreads for multi-threading. It allows multiple clients to connect to a server and communicate in a chatroom-like environment.
 
 Features:
